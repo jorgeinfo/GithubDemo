@@ -1,4 +1,4 @@
-DEMO GitHub
+Demostracion GitHub
 ==========
 este es un ejemplo basico de descripcion en github
 
