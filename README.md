@@ -9,3 +9,8 @@ Requisitos
 
 Capturas
 =========
+<div aling="center">
+<center>
+    <img src="/img/captura.png" width="300">
+</center>
+</div>
